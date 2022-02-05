@@ -1,5 +1,5 @@
 -- Assignment 1: VHDL Modeling
--- https://vhdlguide.readthedocs.io/en/latest/vhdl/dex.html
+-- Source: https://vhdlguide.readthedocs.io/en/latest/vhdl/dex.html
 
 -- rand_num_generator.vhd
 
