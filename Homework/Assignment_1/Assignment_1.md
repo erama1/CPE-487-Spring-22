@@ -1,0 +1,3 @@
+- Find a VHDL model not included in the course material
+- Add a comment citing the source
+- Upload the VHDL file to the GitHub repository
