@@ -1,6 +1,8 @@
 # Lab 3: Bouncing Ball
 
-## Original 
+### Original 
 ![Moving_Square](https://user-images.githubusercontent.com/45573682/162891362-2c2e7f43-1932-427f-be1a-1a22a72f764e.gif)
-## Modfications
+### Modfications
 ![Bouncing_Circle](https://user-images.githubusercontent.com/45573682/162891399-6ec5aa50-397e-44d9-9e0c-77455c317b54.gif)
+
+# Lab 6: Video Game PONG
