@@ -5,6 +5,14 @@ VHDL implementation of retro game Pacman originally created by [atahanyorganci](
 
 We have taken this project and made it functional on a [Nexsys-A7 Board](https://digilent.com/reference/programmable-logic/nexys-a7/reference-manual) by remapping the original contraint file pins to our board.
 
+# Requirements
+* **Nexys A7-100T**
+* **Vivado 2019.1 Installation**: To set up Vivado, see the [Installing Vivado and Digilent Board Files Tutorial](https://reference.digilentinc.com/vivado/installing-vivado/start).
+* **Serial Terminal Emulator**: For more information, see the [Installating and Using a Terminal Emulator Tutorial](https://reference.digilentinc.com/learn/programmable-logic/tutorials/tera-term).
+* **MicroUSB Cable:** To connect to serial terminal
+* **USB Keyboard:** To use WASD keys to play the game
+* **5V external power supply for board:** To power the board
+
 # Board Designs
 
 ## Basys3 Pin Mappings (Original)
